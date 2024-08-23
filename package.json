@@ -1,0 +1,19 @@
+{
+  "name": "volumio-play-classic",
+  "version": "0.0.1",
+  "description": "遠程控制 Volumio 播放台北愛樂電台",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeChSien/volumio-play-classic"
+  },
+  "scripts": {
+    "play": "node index.js"
+  },
+  "keywords": [
+    "Volumio",
+    "愛樂"
+  ],
+  "author": "Jason Lee",
+  "license": "ISC"
+}
